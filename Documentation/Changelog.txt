@@ -1,0 +1,12 @@
+Documentation webapp changelog
+-------------------------------
+
+v0.1b
+------
+* Bugfix: The webapp now properly closes after opening up the documentation - no more residue console windows!
++ For a more seamless experience, the Documentation console is launched in a minimised state and only restores to a normal state when downloading the latest documentation. This means you will no longer see a console window flash before the Documentation opens up. You will now only see it when it is currently downloading the latest documentation - hence improving performance.
+* Bugfix: Documentation updating now functions correctly
+
+v0.1a
+------
++ First version
